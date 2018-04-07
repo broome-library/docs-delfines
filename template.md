@@ -6,7 +6,7 @@ here is a recommended workflow
 
  **1. Open the [Delfines Article Template](https://www.dropbox.com/s/av2uuv3rzx2zzvc/deflines-article-template_2018.dotx?dl=0)**
 
-**2. <span style="text-decoration: underline;" class="underline" >Click</span> on `File` on the Word Ribbon (Tab)**
+**2. <span class="underline" >Click</span> on `File` on the Word Ribbon (Tab)**
     ![Click on File][1]
 
 **3. In the Right hand Side you'll see the `File Properties` section**

@@ -2,7 +2,7 @@
 
 here is a recommended workflow
 
-## Enter Title Author and Title Information
+## Enter Author and Title Information
 
  **1. Open the [Delfines Article Template](https://www.dropbox.com/s/av2uuv3rzx2zzvc/deflines-article-template_2018.dotx?dl=0)**
 
@@ -20,8 +20,9 @@ here is a recommended workflow
 
 **6. Enter the new Author's name**
 
-**7. Save the Document.  Before Saving I would review the organizational section.**
+**7. Save the Document.  Before Saving I would review the [organizational section](organization.md).**
 
 [1]: ./img/ss-001_1523052308.png
 [2]: ./img/ss-001_1523054753.png
 [3]: ./img/ss-001_1523054406.png
+

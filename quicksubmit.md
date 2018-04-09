@@ -1,7 +1,7 @@
 # Quick Submit Tool
 
 1. [Login](https://journals.library.csuci.edu/ojs/index.php/delfines/login) into Journal
-2. On the Right Hand Menu <span class="action">Navigate to</span> <span class="path">Tools -> Import/Export -> QuickSubmit Plugin</span>
+2. On the Right Hand Menu <span class="action">Navigate</span> to <span class="path">Tools -> Import/Export -> QuickSubmit Plugin</span>
 3. <span class="action">Select</span> Section, enter Title
 4. Under 'List of Contributors' section  <span class="action">Click</span> <span class="btns">Add Contributor</span>
     *  <span class="action">Enter</span> First and Last name of contributor

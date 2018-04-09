@@ -4,6 +4,20 @@
     text-decoration: underline;
 }
 
+.btn {
+    font-family:"Trebuchet MS", Helvetica, sans-serif;
+	border-radius: 12px;
+    background-color: grey; /*DodgerBlue;*/
+    padding: .5em;
+    color: white;   
+}
+
+.path {
+    font-family: "Lucida Console", Monoaco, monospace;
+    /* font-family: "Courier New", Courier, monospace; */
+    text-decoration: underline;    
+}
+
 .underline {
     text-decoration: underline;
 }

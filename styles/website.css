@@ -1,9 +1,11 @@
+/* for some keywords like select,click, go to, etc..  */
 .action {
     font-variant:       small-caps;
     font-weight:        normal;
     text-decoration:    underline;
 }
 
+/* for buttons */
 .btns {
     background-color:   #f0f5f5;
     border-radius:      5px;
@@ -13,6 +15,7 @@
     color:              black;   
 }
 
+/* for file or navgation paths such as navigate to tools>somewhere>here */
 .path {
     /* font-family:        "Lucida Console", Monoaco, monospace; */
     font-family:        "Courier New", Courier, monospace;

@@ -30,21 +30,27 @@ here is a recommended workflow
 
 **1. Open the section document, such as** [poesia.docx](https://www.dropbox.com/s/iokccsm2rgdqu37/POES%C3%8DA.docx?dl=0) **from dropbox.**  
 
-**2. <span class="underline">Select</span> all text of the article.**
+**2. <span class="action">Select</span> all text of the article.**
 
 * An easy way in Windows to do this is to move the cursor to the begining of the article text you'd like select.  
-* Scroll down (if necessary) to the end of the article.  <span class="underline">Hold Down</span> the `Shift` key and <span class="underline">Click</span> the end of the article. <span class="underline">Press</span> `Ctrl + C`
+* Scroll down (if necessary) to the end of the article.  <span class="action">Hold Down</span> the `Shift` key and <span class="action">Click</span> the end of the article. <span class="action">Press</span> `Ctrl + C`
 
 * The entire article should now be selected.
 
 **3. Paste text into Template.**
 
-* Windows: <span class="underline">Press</span> `Ctrl + V`
-* Mac: <span class="underline">Press</span> `Command + V`
+* Windows: <span class="action">Press</span> `Ctrl + V`
+* Mac: <span class="action">Press</span> `Command + V`
 
 ## Format Text 
-The Template has five defined syles:
+The Template has five defined syles, see below.  The styles of the text can be found on the 'Home' Tab under the  'Styles' section.  
 
+![Styles Location][4]
+
+
+To Format the text <span class="action">Select</span> the text and then  <span class="action">Select</span> the appropriate style.
+
+### Styles
 * delfines_title: Style for the title
 * delfines_author: Style for the author
 * delfines_issue: Style for issue line
@@ -54,3 +60,4 @@ The Template has five defined syles:
 [1]: ./img/ss-001_1523052308.png
 [2]: ./img/ss-001_1523054753.png
 [3]: ./img/ss-001_1523054406.png
+[4]: ./img/ss-001_1523288804.png

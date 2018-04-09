@@ -4,11 +4,11 @@
     text-decoration: underline;
 }
 
-.btn {
+.btns {
     font-family:"Trebuchet MS", Helvetica, sans-serif;
 	border-radius: 12px;
     background-color: grey; /*DodgerBlue;*/
-    padding: .5em;
+    /* padding: .5em; */
     color: white;   
 }
 

@@ -5,5 +5,6 @@
 * [Using the Template](template.md)
 * [QuickSubmit Tool](quicksubmit.md)
 * [Delete a Submission](delete-submission.md)
+* [Updating a Galley](updating-galley.md)
 ---
 * [Delfines](https://journals.library.csuci.edu/ojs/index.php/delfines)
